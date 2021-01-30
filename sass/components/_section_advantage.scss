@@ -32,7 +32,7 @@
 .section-advantage__subtitle {
   margin-top: 0;
   margin-bottom: 10px;
-  @include mainFont(700, 1.17);
+  @include mainFont(700, 14px, 1.17);
   color: $titleTextColor;
   text-transform: uppercase;
 }
